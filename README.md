@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
-**text_miner** is a Python-based tool developed during an Infosys internship. This project focuses on extracting insights from large text files using sentiment analysis, text splitting, and ranking techniques. It's structured into modules to streamline tasks such as preprocessing, analysis, and aggregation of sentiment data. Perfect for learning or for building upon for text mining and NLP workflows.
+**Parallel text Processing** is a Python-based tool developed during an Infosys internship. This project focuses on extracting insights from large text files using sentiment analysis, text splitting, and ranking techniques. It's structured into modules to streamline tasks such as preprocessing, analysis, and aggregation of sentiment data. Perfect for learning or for building upon for text mining and NLP workflows.
 
 ## Features
 - **Text Splitting**: Breaks down large text inputs into manageable chunks for analysis.
